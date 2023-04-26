@@ -1,4 +1,6 @@
-# esp32-s3
-BOARD: Ai Thinker NodeMCU ESP-S3-12K-Kit
+# ESP32 BOARDs
 
-ARDUINO IDE Selecet Board: ESP32S3 Dev Module
+- Ai Thinker NodeMCU ESP-S3-12K-Kit: (ESP32S3 Dev Module in ARDUINO IDE)
+- DOIT ESP32 DEVKIT
+- AI-Thinker ESP32-CAM
+
