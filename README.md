@@ -1,6 +1,8 @@
 # ESP32 BOARDs
 
-- Ai Thinker NodeMCU ESP-S3-12K-Kit: (ESP32S3 Dev Module in ARDUINO IDE)
-- DOIT ESP32 DEVKIT
+- Ai Thinker NodeMCU ESP-S3-12K-Kit 👉 (ESP32S3 Dev Module in ARDUINO IDE)
+- DOIT ESP32 DEVKIT v1
 - AI-Thinker ESP32-CAM
-
+- Wemos_LOLIN32 (ESP32-WROOM-32)
+- LILIGO T-Display-S3
+- ESP32-WROOM-32D and 32U
