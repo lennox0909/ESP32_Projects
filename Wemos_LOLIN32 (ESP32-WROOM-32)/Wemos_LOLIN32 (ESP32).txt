@@ -1,0 +1,25 @@
+Wemos_LOLIN32 (ESP32)
+
+Serial port /dev/cu.SLAB_USBtoUART6
+Connecting....
+
+芯片: ESP32-D0WDQ6
+模组: ESP32-WROOM-32
+
+
+Chip is ESP32-D0WDQ6 (revision v1.0)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: ec:94:cb:6d:74:10
+
+藍牙 MAC位址：EC:94:CB:6D:74:12
+WiFi MAC位址：EC-94-CB-6D-74-10
+
+ESP32 bluetooth address: ec:94:cb:6d:74:12
+Bonded device count: 1
+Found bonded device # 0 -> 58:bf:25:9e:b8:0e -> MacBook Air M2Programmable GPIO5 output LED
+
+MOSI: 23
+MISO: 19
+SCK: 18
+SS: 5
